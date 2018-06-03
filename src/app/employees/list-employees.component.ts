@@ -17,7 +17,7 @@ export class ListEmployeesComponent implements OnInit {
       dateOfBirth: new Date('10/25/1988'),
       department: 'IT',
       isActive: true,
-      photoPath: 'assets/images/shakira.jpeg',
+      photoPath: 'assets/images/shakira.jpg',
     },
     {
       id: 2,
@@ -27,7 +27,7 @@ export class ListEmployeesComponent implements OnInit {
       dateOfBirth: new Date('10/25/1979'),
       department: 'IT',
       isActive: true,
-      photoPath: 'assets/images/gisele.jpeg',
+      photoPath: 'assets/images/giseles.jpg',
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ export class ListEmployeesComponent implements OnInit {
       dateOfBirth: new Date('10/25/1996'),
       department: 'IT',
       isActive: true,
-      photoPath: 'assets/images/sansa.jpeg',
+      photoPath: 'assets/images/sansa.jpg',
     }
   ];
   constructor() { }

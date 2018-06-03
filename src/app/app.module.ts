@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { ListEmployeesComponent } from './employees/list-employees/list-employees.component';
+import { ListEmployeesComponent } from './employees/list-employees.component';
 
 
 @NgModule({
